@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Konstantinos Katris 
 
-**'Informatics Student (University of Western Macedonia, Kastoria)'**
+**`Informatics Student (University of Western Macedonia, Kastoria)`**
  
 
 - 🔭 I’m currently working on my Bachelor's Degree on Informatics
