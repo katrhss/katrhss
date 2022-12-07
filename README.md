@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my Bachelor's Degree on Informatics
 - 🌱 I’m currently learning the basics of Data Science and Machine Learning alongside with my Uni classes.
-- 💻 I'm also voluntarily investing time at the IEEE Student Branch of Univesity of Western Macedonia,Kastoria as Vice-Chair in which I have worked on multiple projects      and been in numerous conferences regarding Informatics, Computer Science and Technology in general 
+- 💻 I'm also voluntarily investing time at the IEEE Student Branch of Univesity of Western Macedonia,Kastoria as Chair in which I have worked on multiple projects      and been in numerous conferences regarding Informatics, Computer Science and Technology in general 
 
 ---
 
