@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on my Bachelor's Degree on Informatics
 - 🌱 I’m currently learning the basics of React alongside with my Uni classes.
-- 💻 I'm also voluntarily investing time at the IEEE Student Branch of Univesity of Western Macedonia,Kastoria
 
 ---
 
