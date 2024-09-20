@@ -4,7 +4,7 @@
  
 
 - 🔭 I’m currently working on my Bachelor's Degree on Informatics
-- 🌱 I’m currently learning the basics of React alongside with my Uni classes.
+- 🌱 I’m currently learning the basics of React alongside my Uni classes.
 
 ---
 
